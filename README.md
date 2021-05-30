@@ -5,7 +5,7 @@ Table of Contents
 2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#file-descriptions)
 4. [Summary of Analysis](#Summary)
-5. [Acknowledgments](#Acknowledgements)
+5. [Acknowledgments](#licensing-authors-acknowledgements)
 
 
 
