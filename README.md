@@ -2,7 +2,7 @@
 
 Table of Contents
 1. [Installation](#Installation)
-2. [Project Motivation](#Project Motivation)
+2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#File Descriptions)
 4. [Summary of Analysis](#Summary)
 5. [Acknowledgments](#Acknowledgements)
