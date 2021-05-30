@@ -1,7 +1,7 @@
 # Seattle Airbnb Data Analysis
 
 Table of Contents
-1. [Installation] (# Installation)
+1. [Installation] (#Installation)
 2. [Project Motivation] 
 3. [File Descriptions]
 4. [Summary of Analysis]
