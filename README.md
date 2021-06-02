@@ -34,7 +34,7 @@ There is a notebook available here to showcase work related to the above questio
 Also included are the data files in resources.zip which were downloaded from Kaggle. To answer the above business questions listings and calendar data files were used.
 
 # Summary 
-The main findings of the code can be found at the post available [here](#https://kohliankit06.medium.com/how-to-find-the-best-place-to-stay-in-seattle-a5335277eaa7)
+The main findings of the code can be found at the post available [here](https://kohliankit06.medium.com/how-to-find-the-best-place-to-stay-in-seattle-a5335277eaa7)
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available https://www.kaggle.com/airbnb/seattle/data Otherwise, feel free to use the code here as you would like
